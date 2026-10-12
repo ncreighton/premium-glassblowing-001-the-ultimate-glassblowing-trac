@@ -1,0 +1,2 @@
+# premium-glassblowing-001-the-ultimate-glassblowing-trac
+Tired of losing track of which pieces are in the kiln, which are ready for the market, and which sold at the last Fourways Farmers? The Ultimate Glassblowing Tracker ends the chaos.  This Notion template is built specifically for glassblowers who sell at farmers markets and studios. It replaces sticky notes and spreadsheets with a single system to
